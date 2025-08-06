@@ -215,7 +215,7 @@ export default function Home() {
                   <div className="w-12 h-12 bg-amber-100 rounded-full flex items-center justify-center">
                     <i className="ri-phone-line text-amber-700 text-xl"></i>
                   </div>
-                  <span className="text-gray-800 font-semibold">+91 98108 73651</span>
+                  <span className="text-gray-800 font-semibold">+91 7302519583</span>
                 </div>
                 
                 <div className="flex items-center justify-center space-x-4 text-xl">
@@ -247,7 +247,7 @@ export default function Home() {
             </p>
             
             <div className="flex justify-center space-x-8 mb-6">
-              <span className="text-gray-400">📞 +91 98108 73651</span>
+              <span className="text-gray-400">📞 +91 7302519583</span>
               <span className="text-gray-400">📧 radixaroma@gmail.com</span>
             </div>
             
